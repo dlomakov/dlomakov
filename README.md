@@ -57,8 +57,8 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 
 ## 📌 Featured Projects
 
-- 🎓 [Talk Academy LMS & CRM](now private) — production-ready educational platform (250+ users)  
-- 📘 [Hadoop Admin Course (WIP)](TBD) — practical step-by-step guide to deploy your own Big Data stack  
+- 🎓 Talk Academy LMS & CRM (now private) — production-ready educational platform (250+ users)  
+- 📘 Hadoop Admin Course (TBD) — practical step-by-step guide to deploy your own Big Data stack  
 
 ---
 
