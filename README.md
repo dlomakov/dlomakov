@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8-blue?logo=sql" />
   <img src="https://img.shields.io/badge/Python-3.8-blue?logo=python" />
   <img src="https://img.shields.io/badge/Apache_Spark-3.2.2-orange?logo=apache-spark" />
   <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
@@ -19,7 +18,7 @@
 ## 🚀 What I Do
 
 - 🧠 Lead Data Engineer in FinTech:  
-  I design and support data marts for corporate loan portfolios using the Hadoop ecosystem  
+  I design and support data marts for corporate credit risks using the Hadoop ecosystem  
   (HDFS · Spark · Hive · Parquet · Oozie + custom ETL controller).
 
 - 🛠️ Building internal ETL platform with task stats, locking, and flow management.
@@ -38,7 +37,7 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 3. 🐝 Hive + MySQL metastore  
 4. 🔄 Tez + Hive ACID + bucketing  
 5. 📅 Apache Oozie via Bigtop  
-6. 🛡️ HA cluster with Zookeeper  
+6. 🛡️ HA cluster with Zookeeper
 7. 🔐 Kerberos security
 
 ---
