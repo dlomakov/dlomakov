@@ -49,8 +49,8 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 | Languages    | SQL · Python (PySpark, Flask, FastAPI, pandas) · Scala                         |
 | Big Data     | Hadoop (HDFS + YARN) · Spark · Hive · Oozie · Airflow · Greenplum            |
 | Web          | Flask · Jinja · Gunicorn · Nginx · HTML/CSS                                  |
-| Databases    | PostgreSQL · MySQL · MS SQL                                                  |
-| **Async/Storage**| RabbitMQ · Celery · MinIO                                                    |
+| Databases / Storage    | PostgreSQL · MySQL · MS SQL · MinIO                                                  |
+| Async| RabbitMQ · Celery                                                    |
 | OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
 
 ---
