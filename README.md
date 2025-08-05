@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Data Engineer · Big Data Specialist · Python Developer</b><br>
-  <i>Designing scalable data systems and building smart tools for people</i>
+  <i>Designing scalable data systems and building smart tools for everyone</i>
 </p>
 
 <p align="center">
