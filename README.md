@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Denis!
 
 🚀 Lead Data Engineer in FinTech.  
-I design and develop data marts for corporate credit portfolios, working with Big Data in the Hadoop ecosystem:  
+I design and develop data marts for corporate credit risks, working with Big Data in the Hadoop ecosystem:  
 HDFS (storage) · Spark 3.2 (compute, YARN Cluster) · Hive (metastore) · Parquet (file format) · Apache Oozie + custom ETL orchestrator.
 
 ---
