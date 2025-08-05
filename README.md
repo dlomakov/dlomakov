@@ -1,54 +1,70 @@
-# 👋 Hi, I'm Denis!
+<h1 align="center">👋 Hi, I'm Denis</h1>
 
-🚀 Lead Data Engineer in FinTech.  
-I design and develop data marts for corporate credit risks, working with Big Data in the Hadoop ecosystem:  
-HDFS (storage) · Spark 3.2 (compute, YARN Cluster) · Hive (metastore) · Parquet (file format) · Apache Oozie + custom ETL orchestrator.
+<p align="center">
+  <b>Lead Data Engineer · Big Data Specialist · Python Developer</b><br>
+  <i>Designing scalable data systems and building smart tools for people</i>
+</p>
 
----
-
-## 💼 Background
-Before Big Data, I supported front-office banking systems, including:  
-- 🖥️ Administering Linux (CentOS 7/8, RHEL, AIX).  
-- 🔑 Active Directory & automation (PowerShell, Bash).  
-- 🗄️ RDBMS (MS SQL, PostgreSQL).  
-- 🌐 Web servers (Apache, IIS, Nginx).
-
----
-
-## 🎓 Side Project — [Talk Academy](https://github.com/)  
-I’m developing a CRM + LMS system for an online language school:  
-- 📦 Product & payment management.  
-- 🗓️ Class scheduling.  
-- 🧩 Course builder.  
-- 🔗 Integrations (payment gateways, landing pages).  
-
-Tech stack:  
-Flask 2.3.3 (Python 3.8) · PostgreSQL 14 · Gunicorn + Nginx · Celery + RabbitMQ · MinIO.  
-The app is live with 250+ users (200+ students, 30 teachers).
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Apache_Spark-3.5.5-orange?logo=apache-spark" />
+  <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
+  <img src="https://img.shields.io/badge/Flask-2.3.3-lightgrey?logo=flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql" />
+</p>
 
 ---
 
-## 📚 Current Focus
-I'm creating a 7-lesson course on installing and administering vanilla Hadoop clusters:  
-1. HDFS + YARN setup (Hadoop 3.3.6).  
-2. Spark 3.5.5 + Jupyter Lab (PySpark, Apache Toree).  
-3. Hive 3.1.3 with MySQL metastore.  
-4. Tez 0.10.2 & Hive ACID + bucketing.  
-5. Apache Oozie 5.2.1 build via Bigtop.  
-6. HA-cluster with Zookeeper & NameNode failover.  
-7. Security — Kerberos setup.
+## 🚀 What I Do
+
+- 🧠 Lead Data Engineer in FinTech:  
+  I design and support data marts for corporate loan portfolios using the Hadoop ecosystem  
+  (HDFS · Spark · Hive · Parquet · Oozie + custom ETL controller).
+
+- 🛠️ Building internal ETL platform with task stats, locking, and flow management.
+
+- 👨‍🏫 Side Project: Web app for a language edtech startup — CRM + LMS system for 250+ users  
+  (Flask · PostgreSQL · Celery · MinIO · RabbitMQ · Nginx · Gunicorn).
 
 ---
 
-## 🛠️ Tech Stack
-- Languages: SQL (10+ yrs), Python (5+ yrs — PySpark, FastAPI, Flask, Pandas, NumPy, SQLAlchemy), Scala (2+ yrs).  
-- Big Data: Hadoop (HDFS + YARN), Spark, Hive, Oozie, PySpark, Airflow, Greenplum.  
-- Databases: PostgreSQL, MySQL, MS SQL.  
-- Web: HTML, CSS, Jinja, Gunicorn, Nginx.  
-- OS: Linux (Ubuntu, Debian, CentOS).
+## 🎓 Educational Content
+
+Currently developing a 7-part course on installing and managing a vanilla Hadoop cluster from scratch:
+
+1. 🧱 HDFS + YARN setup  
+2. ⚡ Spark + Jupyter Lab (PySpark, Apache Toree)  
+3. 🐝 Hive + MySQL metastore  
+4. 🔄 Tez + Hive ACID + bucketing  
+5. 📅 Apache Oozie via Bigtop  
+6. 🛡️ HA cluster with Zookeeper  
+7. 🔐 Kerberos security
 
 ---
 
-### 📫 Reach Me
-- [LinkedIn](#)  
-- [Email](#)
+## 🧰 Tech Stack
+
+| Area             | Tools & Tech                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| Languages    | SQL · Python (PySpark, Flask, FastAPI) · Scala                         |
+| Big Data     | Hadoop (HDFS + YARN) · Spark · Hive · Oozie · Airflow · Greenplum            |
+| Web          | Flask · Jinja · Gunicorn · Nginx · HTML/CSS                                  |
+| Databases    | PostgreSQL · MySQL · MS SQL                                                  |
+| **Async/Storage**| RabbitMQ · Celery · MinIO                                                    |
+| OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
+
+---
+
+## 📌 Featured Projects
+
+- 🎓 [Talk Academy LMS & CRM](https://github.com/) — production-ready educational platform (250+ users)  
+- 📘 [Hadoop Admin Course (WIP)](https://github.com/) — practical step-by-step guide to deploy your own Big Data stack  
+
+---
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](#)  
+- ✉️ Email: your@email.com
+
+---
