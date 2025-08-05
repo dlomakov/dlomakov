@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8-blue?logo=sql" />
   <img src="https://img.shields.io/badge/Python-3.8-blue?logo=python" />
   <img src="https://img.shields.io/badge/Apache_Spark-3.2.2-orange?logo=apache-spark" />
   <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
