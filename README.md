@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Apache_Spark-3.5.5-orange?logo=apache-spark" />
+  <img src="https://img.shields.io/badge/Apache_Spark-3.2.2-orange?logo=apache-spark" />
   <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
   <img src="https://img.shields.io/badge/Flask-2.3.3-lightgrey?logo=flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql" />
