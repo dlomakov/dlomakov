@@ -46,7 +46,7 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 
 | Area             | Tools & Tech                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| Languages    | SQL · Python (PySpark, Flask, FastAPI) · Scala                         |
+| Languages    | SQL · Python (PySpark, Flask, FastAPI, pandas) · Scala                         |
 | Big Data     | Hadoop (HDFS + YARN) · Spark · Hive · Oozie · Airflow · Greenplum            |
 | Web          | Flask · Jinja · Gunicorn · Nginx · HTML/CSS                                  |
 | Databases    | PostgreSQL · MySQL · MS SQL                                                  |
@@ -57,14 +57,14 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 
 ## 📌 Featured Projects
 
-- 🎓 [Talk Academy LMS & CRM](https://github.com/) — production-ready educational platform (250+ users)  
-- 📘 [Hadoop Admin Course (WIP)](https://github.com/) — practical step-by-step guide to deploy your own Big Data stack  
+- 🎓 [Talk Academy LMS & CRM](now private) — production-ready educational platform (250+ users)  
+- 📘 [Hadoop Admin Course (WIP)](TBD) — practical step-by-step guide to deploy your own Big Data stack  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Contact
 
 - 🧑‍💼 [LinkedIn](#)  
-- ✉️ Email: your@email.com
+- ✉️ Email: denis.lomakov@gmail.com
 
 ---
