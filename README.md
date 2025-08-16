@@ -58,7 +58,8 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 ## 📌 Featured Projects
 
 - 🎓 Talk Academy LMS & CRM (now private) — production-ready educational platform (250+ users)  
-- 📘 Hadoop Admin Course (TBD) — practical step-by-step guide to deploy your own Big Data stack  
+- 📘 Hadoop Admin Course (TBD) — practical step-by-step guide to deploy your own Big Data stack
+- 
 
 ---
 
@@ -68,3 +69,9 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 - ✉️ Email: denis.lomakov@gmail.com
 
 ---
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov&layout=compact)](https://github.com/dlomakov/dlomakov)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov)](https://github.com/dlomakov/dlomakov)
