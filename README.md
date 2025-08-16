@@ -62,7 +62,7 @@ Most Used Languages
 
 - 🎓 Talk Academy LMS & CRM (now private) — production-ready educational platform (250+ users)  
 - 📘 Hadoop Admin Course (TBD) — practical step-by-step guide to deploy your own Big Data stack
-- ⚙️ DE-tools (https://github.com/dlomakov/de_tools) - set of utilities and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
+- ⚙️ [DE-tools](https://github.com/dlomakov/de_tools) - set of utilities and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
 
 ---
 
