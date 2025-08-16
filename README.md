@@ -53,13 +53,16 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 | Async / Storage| RabbitMQ · Celery · MinIO                                                    |
 | OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
 
+Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov)](https://github.com/dlomakov/dlomakov)
+
 ---
 
 ## 📌 Featured Projects
 
 - 🎓 Talk Academy LMS & CRM (now private) — production-ready educational platform (250+ users)  
 - 📘 Hadoop Admin Course (TBD) — practical step-by-step guide to deploy your own Big Data stack
-- 
+- ⚙️ DE-tools (https://github.com/dlomakov/de_tools) - set of utilities and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
 
 ---
 
@@ -69,9 +72,3 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 - ✉️ Email: denis.lomakov@gmail.com
 
 ---
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov&layout=compact)](https://github.com/dlomakov/dlomakov)
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov)](https://github.com/dlomakov/dlomakov)
