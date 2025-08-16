@@ -53,7 +53,6 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 | Async / Storage| RabbitMQ · Celery · MinIO                                                    |
 | OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
 
-Most Used Languages\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov)](https://github.com/dlomakov/dlomakov)
 
 ---
