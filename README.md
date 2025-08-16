@@ -61,7 +61,7 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 
 - 🎓 [Talk Academy](https://github.com/dlomakov/talk_academy) LMS & CRM — production-ready educational platform (250+ users)  
 - 📘 [Hadoop Admin Course](https://github.com/dlomakov/data_academy) — practical step-by-step guide to deploy your own Big Data stack
-- ⚙️ [DE-tools](https://github.com/dlomakov/de_tools) - set of utilities and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
+- ⚙️ [DE-tools](https://github.com/dlomakov/de_tools) - pack of utils and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
 
 ---
 
