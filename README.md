@@ -60,8 +60,6 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 | Async / Storage| RabbitMQ · Celery · MinIO                                                    |
 | OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlomakov)](https://github.com/dlomakov/dlomakov)
-
 ---
 
 ## 📌 Featured Projects
@@ -74,7 +72,7 @@ Currently developing a 7-part course on installing and managing a vanilla Hadoop
 
 ## 📫 Let's Contact
 
-- 🧑‍💼 [LinkedIn](#)  
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/denis-lomakov)  
 - ✉️ Email: denis.lomakov@gmail.com
 
 ---
