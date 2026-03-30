@@ -21,7 +21,14 @@
   I design and support data marts for corporate credit risks using the Hadoop ecosystem  
   (HDFS · Spark · Hive · Parquet · Oozie + custom ETL controller).
 
-- 🛠️ Building internal ETL platform with task stats, locking, and flow management.
+- 🛠️ Designing a Production Data Platform from scratch
+Outside of my main role I designed and implemented a Data Platform for a company with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
+Data Platform architecture:
+1. Data Warehouse - PostgreSQL cluster with logical DWH layers: Raw, Core, Data Marts. DB Access layer via connection pooler for scalability and isolation.
+2. Orchestration - Apache Airflow (Celery Executors) with DAGs deployed via Git.
+3. Data Ingestion - Airbyte with database replication and custom API connectors to sources.
+4. Transformations - dbt project integrated into Airflow pipelines via Git.
+5. BI Layer - Apache Superset
 
 - 👨‍🏫 Side Project: Web app for a language edtech startup — CRM + LMS system for 250+ users  
   (Flask · PostgreSQL · Celery · MinIO · RabbitMQ · Nginx · Gunicorn).
