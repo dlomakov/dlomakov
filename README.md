@@ -20,7 +20,7 @@
 ## 🚀 What I Do
 
 - 🧠 Lead Data Engineer in FinTech:  
-  I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on designing and building data platforms and analytical systems for corporate credit risks.
+  I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on designing and building data platforms and analytical systems for corporate credit risks.\
   (HDFS · Spark · Hive · Parquet · Oozie · ClickHouse · Airflow · Greenplum)
     * 70+ production data pipelines
     * 5 TB+ daily data processing
