@@ -44,35 +44,38 @@ I designed and implemented a Data Platform for a Non-bank credit organization wi
 
 ## 🎓 Educational Content
 
-Currently developing a 7-part course on installing and managing a vanilla Hadoop cluster from scratch:
+Currently developing a 7-part course on installing and managing an Open Source DataBricks-like Data Platform from scratch:
 
-1. 🧱 HDFS + YARN setup  
-2. ⚡ Spark + Jupyter Lab (PySpark, Apache Toree)  
-3. 🐝 Hive + MySQL metastore  
-4. 🔄 Tez + Hive ACID + bucketing  
-5. 📅 Apache Oozie via Bigtop  
-6. 🛡️ HA cluster with Zookeeper
-7. 🔐 Kerberos security
+1. 🧰 Apache Ozone + YARN setup  
+2. ⚡ Apache Spark on Yarn + Jupyter Lab (PySpark, Apache Toree)  
+3. 🐝 Apache Hive + MySQL metastore  
+4. 🔄 Apache Iceberg Table Format + ACID
+5. 📅 Apache Airflow 
+6. 🛡️ HA cluster
+7. 🔐 Kerberos and Ranger security
+8. ⚙️ Serving Layer: ClickHouse
+9. 📊 BI: Superset
 
 ---
 
 ## 🧰 Tech Stack
 
-| Area             | Tools & Tech                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| Languages    | SQL · Python (PySpark, Flask, FastAPI, pandas) · Scala                         |
-| Big Data     | Hadoop (HDFS + YARN) · Spark · Hive · Oozie · Airflow · Greenplum            |
-| Web          | FastAPI · Flask · Jinja · Gunicorn · Nginx · HTML/CSS                                  |
-| Databases     | PostgreSQL · MySQL · MS SQL                                                  |
+| Area           | Tools & Tech                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| Languages      | SQL · Python (PySpark, Flask, FastAPI, pandas) · Scala                       |
+| Big Data       | Hadoop (HDFS + YARN) · Spark · Hive · Greenplum · ClickHouse                 |
+| Orchestration  | Oozie · Airflow                                                              |
+| Web            | FastAPI · Flask · Jinja · Gunicorn · Nginx · HTML/CSS                        |
+| Databases      | PostgreSQL · MySQL · MS SQL                                                  |
 | Async / Storage| RabbitMQ · Celery · MinIO                                                    |
-| OS & Tools   | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
+| OS & Tools     | Linux (Ubuntu, Debian, CentOS) · Bash · Git                                  |
 
 ---
 
 ## 📌 Featured Projects
 
 - 🎓 [Talk Academy](https://github.com/dlomakov/talk_academy) LMS & CRM — production-ready educational platform (250+ users)  
-- 📘 [Hadoop Admin Course](https://github.com/dlomakov/data_academy) — practical step-by-step guide to deploy your own Big Data stack
+- 📘 [Data Platform Course](https://github.com/dlomakov/data_academy) — practical step-by-step guide to deploy your own Big Data Platform
 - ⚙️ [DE-tools](https://github.com/dlomakov/de_tools) - pack of utils and mini-frameworks for Data Engineers working with Apache Spark and Hadoop.
 
 ---
