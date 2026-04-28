@@ -3,7 +3,6 @@
 <p align="center">
   <b>Lead Data Engineer · Big Data Developer</b><br>
   <i>Designing and building scalable Data Platforms</i><br>
-  <i>I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on building data platforms and analytical systems for fintech, banking, and growing businesses.</i>
 </p>
 
 <p align="center">
@@ -21,20 +20,27 @@
 ## 🚀 What I Do
 
 - 🧠 Lead Data Engineer in FinTech:  
-  I design and support data marts for corporate credit risks using the Hadoop ecosystem  
-  (HDFS · Spark · Hive · Parquet · Oozie + custom ETL controller).
+  I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on designing and building data platforms and analytical systems for corporate credit risks.
+  (HDFS · Spark · Hive · Parquet · Oozie · ClickHouse · Airflow · Greenplum)
+    * 70+ production data pipelines
+    * 5 TB+ daily data processing
+    * 20+ subject-area data marts
+    * 11 data engineers in team
 
 - 🛠️ Designing a Production Data Platform from scratch
-Outside of my main role I designed and implemented a Data Platform for a company with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
+I designed and implemented a Data Platform for a company with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
 Data Platform architecture:
   * Data Warehouse - PostgreSQL cluster with logical DWH layers: Raw, Core, Data Marts. DB Access layer via connection pooler for scalability and isolation.
   * Orchestration - Apache Airflow (Celery Executors) with DAGs deployed via Git.
   * Data Ingestion - Airbyte with database replication and custom API connectors to sources.
   * Transformations - dbt project integrated into Airflow pipelines via Git.
   * BI Layer - Apache Superset
+(Non-bank credit organization: 100 employees, 7 sources, 1-2 hour data freshness and 15 regular reports)
 
-- 👨‍🏫 Side Project: Web app for a language edtech startup — CRM + LMS system for 250+ users  
-  (Flask · PostgreSQL · Celery · MinIO · RabbitMQ · Nginx · Gunicorn).
+- 👨‍🏫 Talk Academy: analytics platform for a language edtech startup — finance dashboards, LTV analytics and student performance tracking. 
+  (FastApi · PostgreSQL · Celery · MinIO · RabbitMQ).
+  * 20 teachers
+  * 250+ students
 
 ---
 
