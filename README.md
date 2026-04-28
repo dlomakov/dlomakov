@@ -28,8 +28,8 @@
     * 11 data engineers in team
 
 - 🛠️ Designing a Production Data Platform from scratch\
-I designed and implemented a Data Platform for a Non-bank credit organization with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
-(PostgreSQL · Airflow (Celery Executors) · Airbyte · dbt · Superset)\
+I designed and implemented a Data Platform for a Non-bank credit organization with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.\
+(PostgreSQL · Airflow (Celery Executors) · Airbyte · dbt · Superset)
   * 100 employees
   * 7 sources
   * 1-2 hour data freshness
@@ -44,7 +44,7 @@ I designed and implemented a Data Platform for a Non-bank credit organization wi
 
 ## 🎓 Educational Content
 
-Currently developing a 7-part course on installing and managing an Open Source DataBricks-like Data Platform from scratch:
+Currently developing a 9-part course on installing and managing an Open Source DataBricks-like Data Platform from scratch:
 
 1. 🧰 Apache Ozone + YARN setup  
 2. ⚡ Apache Spark on Yarn + Jupyter Lab (PySpark, Apache Toree)  
