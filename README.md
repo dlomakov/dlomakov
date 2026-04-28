@@ -1,16 +1,17 @@
 <h1 align="center">👋 Hi, I'm Denis</h1>
 
 <p align="center">
-  <b>Lead Data Engineer · Big Data Specialist · Python Developer</b><br>
-  <i>Designing scalable data systems and building smart tools for everyone</i>
+  <b>Lead Data Engineer · Big Data Developer</b><br>
+  <i>Designing and building scalable Data Platforms</i>
+  <i>I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on building scalable data platforms and analytical systems for fintech, banking, and growing businesses.</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue?logo=python" />
   <img src="https://img.shields.io/badge/Apache_Spark-3.2-orange?logo=apache-spark" />
   <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
-  <img src="https://img.shields.io/badge/Flask-2.3.3-lightgrey?logo=flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/SQL-lightgrey?logo=sql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql" />
 </p>
 
 ---
