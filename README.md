@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Data Engineer · Big Data Developer</b><br>
-  <i>Designing and building scalable Data Platforms</i>
+  <i>Designing and building scalable Data Platforms</i><br>
   <i>I'm a Lead Data Engineer with 7+ years in Data Engineering, focused on building scalable data platforms and analytical systems for fintech, banking, and growing businesses.</i>
 </p>
 
