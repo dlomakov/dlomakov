@@ -28,14 +28,12 @@
     * 11 data engineers in team
 
 - 🛠️ Designing a Production Data Platform from scratch\
-I designed and implemented a Data Platform for a company with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
-Data Platform architecture:
-  * Data Warehouse - PostgreSQL cluster with logical DWH layers: Raw, Core, Data Marts. DB Access layer via connection pooler for scalability and isolation.
-  * Orchestration - Apache Airflow (Celery Executors) with DAGs deployed via Git.
-  * Data Ingestion - Airbyte with database replication and custom API connectors to sources.
-  * Transformations - dbt project integrated into Airflow pipelines via Git.
-  * BI Layer - Apache Superset\
-(Non-bank credit organization: 100 employees, 7 sources, 1-2 hour data freshness and 15 regular reports)
+I designed and implemented a Data Platform for a Non-bank credit organization with 100+ employees, built entirely on open-source technologies and deployed in a private cloud.
+(PostgreSQL · Airflow (Celery Executors) · Airbyte · dbt · Superset)\
+  * 100 employees
+  * 7 sources
+  * 1-2 hour data freshness
+  * 15 regular reports
 
 - 👨‍🏫 Talk Academy: analytics platform for a language edtech startup — finance dashboards, LTV analytics and student performance tracking.\
   (FastApi · PostgreSQL · Celery · MinIO · RabbitMQ).
