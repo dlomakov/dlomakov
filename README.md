@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/ClickHouse-22-lightgrey?logo=clickhouse" />
   <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql" />
   <img src="https://img.shields.io/badge/Airflow-3.10-green?logo=airflow" />
-  <img src="https://img.shields.io/badge/Scala-3-grey?logo=scala" />
+  <img src="https://img.shields.io/badge/Scala-3-red?logo=scala" />
 </p>
 
 ---
