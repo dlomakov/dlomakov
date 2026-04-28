@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Hadoop-3.3.6-yellow?logo=apache-hadoop" />
   <img src="https://img.shields.io/badge/ClickHouse-22-lightgrey?logo=clickhouse" />
   <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Airflow-3.10-green?logo=airflow" />
+  <img src="https://img.shields.io/badge/Scala-3-grey?logo=scala" />
 </p>
 
 ---
